@@ -31,7 +31,7 @@ Welcome to the **QR Code Generator** project! This is a simple yet powerful tool
    python main.py
 
 
-## Interact with the GUI:
+## 🚀 Interact with the GUI:
 
 - **Enter Text or URL**: Type the text or URL you want to convert into a QR code.
 - **Enter File Name**: Specify the name under which the QR code will be saved.
@@ -42,6 +42,8 @@ Welcome to the **QR Code Generator** project! This is a simple yet powerful tool
 
 - `main.py`: The main script for the QR code generator application.
 
+ ## 👤 Author
+- **Aadit Singh**
 
 
 
